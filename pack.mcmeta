@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "author": "OnixTheCat",
+    "credits": "TeamAbnormals",
+    "pack_format": 15,
+    "description": "§6Additional recipes & compatibilities for Woodworks (TeamAbnormals)",
+    "compatibility": [
+      "Wizard's reborn",
+      "Malum",
+      "Another Furniture"
+    ]
+  }
+}
