@@ -14,8 +14,8 @@ Datapack also adds some QoL recipes both for Vanilla crafting and Sawmill.
 - **[Another Furniture](https://modrinth.com/mod/another-furniture)**: Recipes for mod's furniture;
 - **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)**: Recipes for cabinets;
 - **[Malum](https://modrinth.com/mod/malum)**: Recipes for mod's wood types and custom wooden blocks;
-- **[Silly Oddities](https://modrinth.com/mod/very-silly-oddities)**: Recipes for mod's compatibility content;
 - **[Wizard's Reborn](https://modrinth.com/mod/wizards-reborn)**: Recipes for mod's wood types and custom wooden blocks.
+- **[Silly Oddities](https://modrinth.com/mod/very-silly-oddities)**: Recipes for mod's compatibility content;
 
 #
 
