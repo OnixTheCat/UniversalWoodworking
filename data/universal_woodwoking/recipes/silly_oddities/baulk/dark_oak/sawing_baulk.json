@@ -11,6 +11,10 @@
               "modid": "silly_oddities"
             },
             {
+              "type": "forge:mod_loaded",
+              "modid": "wizards_reborn"
+            },
+            {
               "type": "woodworks:config",
               "value": "sawmill"
             }
