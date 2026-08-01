@@ -7,7 +7,7 @@
 [![Woodworks](https://img.shields.io/badge/%20-WOODWORKS-000000?style=for-the-badge&color=349a46&logo=modrinth&logoColor=000000&labelColor=FFFFFF)](https://modrinth.com/mod/woodworks)
 
 # Universal Woodworking
-This Minecraft datapack adds more recipe variants for Sawmill from [TeamAbnormals'](https://www.teamabnormals.com) [Woodworks](https://modrinth.com/mod/woodworks) Mod to make it compatible with other mods.
+This Minecraft datapack adds more recipe variants for Sawmill from [TeamAbnormals'](https://www.teamabnormals.com) [Woodworks](https://modrinth.com/mod/woodworks) Mod to make it compatible with other mods.  
 Datapack also adds some QoL recipes both for Vanilla crafting and Sawmill.
 
 ### Compatibility:
