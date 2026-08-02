@@ -20,6 +20,7 @@ Datapack also adds some QoL recipes both for Vanilla crafting and Sawmill.
 - **[Wizard's Reborn](https://modrinth.com/mod/wizards-reborn)**: Recipes for mod's wood types and custom wooden blocks;
 - **[Silly Oddities](https://modrinth.com/mod/very-silly-oddities)**: Recipes for mod's compatibility content.
 
+![](https://fluffy-village.dev/assets/creations/universal_woodworking/title_image.png)
 #
 
 You can visit our **[Discord Server](https://discord.fluffy-village.dev/)** to suggest your ideas or receive news about development.
